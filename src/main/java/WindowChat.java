@@ -1,0 +1,2 @@
+public class WindowChat {
+}
